@@ -9,7 +9,7 @@
 # config: /etc/dropbear/dropbear_dss_host_key
 # config: /etc/dropbear/dropbear_rsa_host_key
 # pidfile: /var/run/dropbear.pid
-OPTIONS="-p 443 -p 80"
+OPTIONS="-p 222"
 # source function library
 . /etc/rc.d/init.d/functions
 
